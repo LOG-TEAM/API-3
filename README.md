@@ -1,4 +1,4 @@
-# Aprendizado por Projeto Integrado (API) - LOGTEAM
+# Aprendizado por Projeto Integrado (API) - Otimização das rotas do IPEM-SP
 
 Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
 
