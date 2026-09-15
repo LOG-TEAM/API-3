@@ -85,7 +85,7 @@ Responsável pelo planejamento e acompanhamento das equipes de fiscalização.
 | ID | User Story | Prioridade | Estimativa |
 | :--- | :--- | :---: | :---: |
 | **US1** | Como analista/gestor, quero ter os dados históricos limpos e padronizados via Python, para garantir a confiabilidade das análises. | 🔴 Alta | A definir |
-| **US2** | Como analista/gestor, quero analisar o histórico de fiscalizações por equipe, região e tipo de inspeção, para mapear a operação atual por meio de análise exploratória descritiva. | 🔴 Alta | A definir |
+| **US2** | Como analista/gestor, quero analisar o histórico de fiscalizações por equipe, município e tipo de inspeção, para mapear a operação atual por meio de análise exploratória descritiva. | 🔴 Alta | A definir |
 | **US3** | Como analista/gestor, quero identificar a distribuição geográfica dos locais fiscalizados, para compreender a concentração de demanda por meio de mapeamento de geolocalização e clusters. | 🔴 Alta | A definir |
 | **US4** | Como analista/gestor, quero calcular a matriz de distâncias e tempos de deslocamento usando Python, para servir de entrada no modelo de otimização. | 🔴 Alta | A definir |
 
