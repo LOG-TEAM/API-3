@@ -53,3 +53,7 @@ Nesta primeira etapa, o MVP **não contempla** a execução do modelo de otimiza
 * Implementação dos algoritmos de otimização de rotas e equipes.
 * Integração da matriz de deslocamento como parâmetro operacional.
 * Criação de painéis e indicadores de acompanhamento em tempo real.
+
+
+https://github.com/user-attachments/assets/160ae7f6-de92-4cb3-85c5-114a158d9f9f
+
