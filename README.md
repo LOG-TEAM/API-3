@@ -32,12 +32,8 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+O nosso projeto é desenvolvido em parceria com o IPEM-SP – Instituto de Pesos e Medidas do Estado de São Paulo e tem como objetivo analisar e otimizar a distribuição das equipes de fiscalização e suas rotas. O projeto surgiu a partir de uma situação identificada na operação; existe uma demanda de fiscalização que precisa ser atendida, queremos entender como as fiscalizações estão distribuídas atualmente e quais fatores podem estar relacionados ao deslocamento das equipes e à distribuição da carga de trabalho.
+O principal é analisar os dados históricos das fiscalizações para entender a operação atual e, posteriormente, propor um modelo de otimização das rotas e do balanceamento da carga de trabalho das equipes.
 
 
 ## Tecnologias Utilizadas
