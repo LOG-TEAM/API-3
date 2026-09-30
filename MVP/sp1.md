@@ -57,3 +57,5 @@ Nesta primeira etapa, o MVP **não contempla** a execução do modelo de otimiza
 
 https://github.com/user-attachments/assets/160ae7f6-de92-4cb3-85c5-114a158d9f9f
 
+https://app.powerbi.com/view?r=eyJrIjoiNWQxOWU2MTgtOTJhMC00YTQxLWI2MTItZGQ2OWExZWZhY2M0IiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9
+
