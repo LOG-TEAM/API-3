@@ -32,8 +32,9 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 
 # Objetivo do Projeto
-O nosso projeto é desenvolvido em parceria com o IPEM-SP – Instituto de Pesos e Medidas do Estado de São Paulo e tem como objetivo analisar e otimizar a distribuição das equipes de fiscalização e suas rotas. O projeto surgiu a partir de uma situação identificada na operação; existe uma demanda de fiscalização que precisa ser atendida, queremos entender como as fiscalizações estão distribuídas atualmente e quais fatores podem estar relacionados ao deslocamento das equipes e à distribuição da carga de trabalho.
-O principal é analisar os dados históricos das fiscalizações para entender a operação atual e, posteriormente, propor um modelo de otimização das rotas e do balanceamento da carga de trabalho das equipes.
+Utilizar o histórico de fiscalizações do IPEM-SP e técnicas de Pesquisa Operacional para reestruturar a distribuição das equipes de fiscalização e o planejamento de rotas. O sistema visa reduzir o total de quilômetros percorridos e o tempo em trânsito, promover o equilíbrio da carga de trabalho entre as equipes e comparar a operação real/histórica com a operação otimizada através de um painel visual em Power BI
+
+
 
 
 ## Tecnologias Utilizadas
@@ -52,17 +53,17 @@ O principal é analisar os dados históricos das fiscalizações para entender a
 
 | Rank | Prioridade | User Story | Sprint | Status |
 | :---: | :---: | :--- | :---: | :---: |
-| 1 | Alta | Como analista/gestor, quero ter os dados históricos limpos e padronizados via Python, para garantir a confiabilidade das análises. | 1 | Concluído |
-| 2 | Alta | Como analista/gestor, quero analisar o histórico de fiscalizações por equipe, regiões e tipo de inspeção, para mapear a operação atual (Análise exploratória descritiva). | 1 | Concluído |
-| 3 | Alta | Como analista/gestor, quero identificar a distribuição geográfica dos locais fiscalizados, para compreender a concentração de demanda (Mapeamento de geolocalização e clusters). | 1 | Concluído |
-| 4 | Alta | Como analista/gestor, quero calcular a matriz de distâncias e tempos de deslocamento usando Python, para servir de entrada no modelo de otimização (Matriz de distância e tempo em Python). | 1 | Concluído |
-| 5 | Média | Como analista/gestor, quero distribuir as demandas de fiscalização entre as equipes de forma equilibrada, para evitar sobrecarga de fiscais (Algoritmo de balanceamento de carga). | 2 | Pendente |
-| 6 | Média | Como analista/gestor, quero implementar o modelo VRP em Python (ex: PuLP, OR-Tools), para processar os dados e gerar soluções automaticamente. | 2 | Pendente |
-| 7 | Média | Como analista/gestor, quero gerar o itinerário e as rotas diárias/semanais otimizadas, para minimizar quilometragem e tempo de viagem (Tabela/Arquivo de rotas otimizadas). | 2 | Pendente |
-| 8 | Baixa | Como analista/gestor, quero comparar os indicadores históricos (reais) com os otimizados, para mensurar o percentual de ganho em km e tempo. | 3 | Pendente |
+| 1 | Alta | Como analista/gestor , quero ter os dados históricos limpos e padronizados via Python, para garantir a confiabilidade das análises.  | 1 | Concluído |
+| 2 | Alta | Como analista/gestor, quero analisar o histórico de fiscalizações por equipe, regiões e tipo de inspeção, para mapear a operação atual (Análise exploratória descritiva) | 1 | Concluído |
+| 3 | Alta | Como analista/gestor, quero identificar a distribuição geográfica dos locais fiscalizados, para compreender a concentração de demanda.(  Mapeamento de geolocalização e clusters) | 1 | Concluído |
+| 4 | Alta | Como analista/gestor, quero calcular a matriz de distâncias e tempos de deslocamento usando Python, para servir de entrada no modelo de otimização.(Matriz de distância e tempo em Python) | 1 | Concluído |
+| 5 | Média | Como analista/gestor, quero distribuir as demandas de fiscalização entre as equipes de forma equilibrada, para evitar sobrecarga de fiscais.| 2 | Pendente |
+| 6 | Média | Como analista/gestor, quero padronizar fiscalizações por itens,  critério de resultados, estabelecendo métrica de tempo de execução.   | 2 | Pendente |
+| 7 | Média | Como analista/gestor, quero padronizar fiscalizações por itens,  critério de resultados, estabelecendo métrica de tempo de execução.   | 2 | Pendente |
+| 8 | Baixa | Como analista/gestor, quero comparar os indicadores históricos (reais) com os otimizados, para mensurar o percentual de ganho. | 3 | Pendente |
 | 9 | Média | Como analista/gestor, quero visualizar um Dashboard interativo em Power BI, para acompanhar os indicadores operacionais de forma visual. | 3 | Pendente |
 | 10 | Média | Como analista/gestor, quero simular a variação do número de equipes ou aumento de demandas, para apoiar a tomada de decisão estratégica. | 3 | Pendente |
-| 11 | Baixa | Como analista/gestor, quero exportar relatórios e resumos operacionais, para compartilhar os dados de rotas com a equipe de campo (Relatório executivo exportável PDF/Excel). | 3 | Pendente |
+| 11 | Baixa | Como analista/gestor, quero exportar relatórios e resumos operacionais, para compartilhar os dados de rotas com a equipe de campo.(Relatório executivo exportável (PDF/Excel)) | 3 | Pendente |
 
 
 
