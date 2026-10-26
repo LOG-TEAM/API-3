@@ -1,8 +1,6 @@
 # 📌 MVP — API de Análise e Otimização da Fiscalização
 
-## Sprint 2 — Balanceamento Operacional e Padronização dos Procedimentos
 
----
 
 ## 🎯 1. Objetivo do MVP e Propósito da Solução
 
