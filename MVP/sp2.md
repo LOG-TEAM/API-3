@@ -360,7 +360,6 @@ https://app.powerbi.com/view?r=eyJrIjoiMDk3YTBmYjQtYzE0My00MDA0LTk5YzQtYTMyOTc3O
 
 
 
-
 **Projeto:** API de Análise e Otimização da Fiscalização
 **Etapa documentada:** Sprint 2
 **Próxima etapa:** Sprint 3 — Análise Comparativa, Dashboard e Simulação de Cenários
