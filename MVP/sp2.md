@@ -356,6 +356,10 @@ A Sprint 3 deverá aprofundar essa análise por meio de comparações entre cen�
 **Observação:** antes da entrega acadêmica ou institucional, recomenda-se conferir as referências normativas, suas alterações e a vigência dos regulamentos aplicáveis diretamente nas publicações oficiais do Inmetro e do Diário Oficial da União.
 
 ---
+https://app.powerbi.com/view?r=eyJrIjoiMDk3YTBmYjQtYzE0My00MDA0LTk5YzQtYTMyOTc3OGQ2ZmE3IiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9
+
+
+
 
 **Projeto:** API de Análise e Otimização da Fiscalização
 **Etapa documentada:** Sprint 2
