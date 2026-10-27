@@ -69,9 +69,9 @@ O balanceamento das horas de trabalho exigiu alterações na distribuição terr
 
 | Indicador             | Cenário Histórico | Plano Otimizado | Variação |
 | --------------------- | ----------------: | --------------: | -------: |
-| Saídas operacionais   |               787 |             964 |     +177 |
+| Saídas  |               787 |             964 |     +177 |
 | Tempo de deslocamento |        2.102,01 h |      2.659,52 h |   +26,5% |
-| Quilometragem total   |     100.675,49 km |   128.270,26 km |   +27,4% |
+|  Distancia total   |     100.675,49 km |   128.270,26 km |   +27,4% |
 
 **Análise operacional:** o plano otimizado apresentou maior equilíbrio na distribuição da carga horária, mas também aumentou os custos logísticos potenciais associados aos deslocamentos.
 
