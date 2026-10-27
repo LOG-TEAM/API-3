@@ -1,7 +1,6 @@
 # 📌 MVP — API de Análise e Otimização da Fiscalização
 
 
-
 ## 🎯 1. Objetivo do MVP e Propósito da Solução
 
 O objetivo deste MVP é implementar um modelo de **otimização operacional, balanceamento da carga de trabalho e padronização dos procedimentos de fiscalização**.
