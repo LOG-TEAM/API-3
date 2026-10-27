@@ -53,7 +53,7 @@ Utilizar o histórico de fiscalizações do IPEM-SP e técnicas de Pesquisa Oper
 
 | Rank | Prioridade | User Story | Sprint | Status |
 | :---: | :---: | :--- | :---: | :---: |
-| 1 | Alta | Como analista/gestor , quero ter os dados históricos limpos e padronizados via Python, para garantir a confiabilidade das análises.  | 1 | finalizado |
+| 1 | Alta | Como analista/gestor , quero ter os dados históricos limpos e padronizados via Python, para garantir a confiabilidade das análises.  | 1 | Concluído |
 | 2 | Alta | Como analista/gestor, quero analisar o histórico de fiscalizações por equipe, regiões e tipo de inspeção, para mapear a operação atual (Análise exploratória descritiva) | 1 | Concluído |
 | 3 | Alta | Como analista/gestor, quero identificar a distribuição geográfica dos locais fiscalizados, para compreender a concentração de demanda.(  Mapeamento de geolocalização e clusters) | 1 | Concluído |
 | 4 | Alta | Como analista/gestor, quero calcular a matriz de distâncias e tempos de deslocamento usando Python, para servir de entrada no modelo de otimização.(Matriz de distância e tempo em Python) | 1 | Concluído |
