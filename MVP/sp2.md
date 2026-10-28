@@ -366,7 +366,11 @@ Este documento apresenta a avaliação de desempenho da equipe LOGTEAM durante a
 
 https://app.powerbi.com/view?r=eyJrIjoiMDk3YTBmYjQtYzE0My00MDA0LTk5YzQtYTMyOTc3OGQ2ZmE3IiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9
 
-https://github.com/user-attachments/assets/7aa3e17a-0ece-491a-8f8d-24a5a30f3348
+
+
+https://github.com/user-attachments/assets/6aa074b9-5aae-4b45-864d-4ed4b7b819b7
+
+
 
 **Projeto:** API de Análise e Otimização da Fiscalização
 **Etapa documentada:** Sprint 2
