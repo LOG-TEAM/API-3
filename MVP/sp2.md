@@ -346,8 +346,11 @@ Entretanto, o aumento de 27,4% na quilometragem e de 26,5% no tempo de deslocame
 A Sprint 3 deverá aprofundar essa análise por meio de comparações entre cenários, visualizações gerenciais e simulações, permitindo verificar os resultados do plano e identificar oportunidades adicionais de otimização.
 
 ---
+## 10. Relatório de avaliação de desempenho e participação individual
+...
+---
 
-## 📚 10. Referências Normativas
+## 📚 11. Referências Normativas
 
 * **BRASIL.** Lei nº 9.933, de 20 de dezembro de 1999. Dispõe sobre as competências do Conmetro e do Inmetro, institui a Taxa de Serviços Metrológicos e dá outras providências.
 * **INMETRO.** Portaria nº 157, de 31 de março de 2022. Regulamento técnico metrológico aplicável aos instrumentos de pesagem não automáticos.
@@ -356,6 +359,7 @@ A Sprint 3 deverá aprofundar essa análise por meio de comparações entre cen�
 **Observação:** antes da entrega acadêmica ou institucional, recomenda-se conferir as referências normativas, suas alterações e a vigência dos regulamentos aplicáveis diretamente nas publicações oficiais do Inmetro e do Diário Oficial da União.
 
 ---
+## 12. Anexos
 https://app.powerbi.com/view?r=eyJrIjoiMDk3YTBmYjQtYzE0My00MDA0LTk5YzQtYTMyOTc3OGQ2ZmE3IiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9
 
 
