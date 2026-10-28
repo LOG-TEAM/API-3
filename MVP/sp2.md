@@ -350,7 +350,7 @@ A Sprint 3 deverá aprofundar essa análise por meio de comparações entre cen�
 
 Este documento apresenta a avaliação de desempenho da equipe LOGTEAM durante a Sprint 2, reunindo informações sobre os resultados alcançados, o acompanhamento das atividades e os pontos identificados ao longo do desenvolvimento do projeto.
 
-📎 **[Acessar Relatório de Avaliação de Desempenho (PDF)](../DOCS%202sprint/Relatorio_Avaliacao_Desempenho_LOGTEAM_Sprint2_REVISADO.pdf)**
+📎 **[Acessar Relatório de Avaliação de Desempenho (PDF)](https://github.com/LOG-TEAM/API-3/blob/main/Docs/Docs%20Sprint%202/Relatorio_Avaliacao_Desempenho_LOGTEAM_Sprint2_REVISADO.pdf)**
 ---
 
 ## 📚 11. Referências Normativas
