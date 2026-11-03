@@ -57,13 +57,13 @@ Utilizar o histórico de fiscalizações do IPEM-SP e técnicas de Pesquisa Oper
 | 2 | Alta | Como analista/gestor, quero analisar o histórico de fiscalizações por equipe, regiões e tipo de inspeção, para mapear a operação atual (Análise exploratória descritiva) | 1 | Concluído |
 | 3 | Alta | Como analista/gestor, quero identificar a distribuição geográfica dos locais fiscalizados, para compreender a concentração de demanda.(  Mapeamento de geolocalização e clusters) | 1 | Concluído |
 | 4 | Alta | Como analista/gestor, quero calcular a matriz de distâncias e tempos de deslocamento usando Python, para servir de entrada no modelo de otimização.(Matriz de distância e tempo em Python) | 1 | Concluído |
-| 5 | Média | Como analista/gestor, quero distribuir as demandas de fiscalização entre as equipes de forma equilibrada, para evitar sobrecarga de fiscais.| 2 | Andamento |
-| 6 | Média | Como analista/gestor, quero padronizar fiscalizações por itens,  critério de resultados, estabelecendo métrica de tempo de execução.   | 2 | Andamento |
-| 7 | Média |Como analista/gestor, quero gerar metas de conclusões (semanal, mensal e anual), para melhor acompanhamento de fiscalizações realizadas.    | 2 | Andamento |
-| 8 | Baixa | Como analista/gestor, quero comparar os indicadores históricos (reais) com os otimizados, para mensurar o percentual de ganho. | 3 | Pendente |
-| 9 | Média | Como analista/gestor, quero visualizar um Dashboard interativo em Power BI, para acompanhar os indicadores operacionais de forma visual. | 3 | Pendente |
-| 10 | Média | Como analista/gestor, quero simular a variação do número de equipes ou aumento de demandas, para apoiar a tomada de decisão estratégica. | 3 | Pendente |
-| 11 | Baixa | Como analista/gestor, quero exportar relatórios e resumos operacionais, para compartilhar os dados de rotas com a equipe de campo.(Relatório executivo exportável (PDF/Excel)) | 3 | Pendente |
+| 5 | Média | Como analista/gestor, quero distribuir as demandas de fiscalização entre as equipes de forma equilibrada, para evitar sobrecarga de fiscais.| 2 | Concluído |
+| 6 | Média | Como analista/gestor, quero padronizar fiscalizações por itens,  critério de resultados, estabelecendo métrica de tempo de execução.   | 2 | Concluído |
+| 7 | Média |Como analista/gestor, quero gerar metas de conclusões (semanal, mensal e anual), para melhor acompanhamento de fiscalizações realizadas.    | 2 | Concluído |
+| 8 | Baixa | Como analista/gestor, quero comparar os indicadores históricos (reais) com os otimizados, para mensurar o percentual de ganho. | 3 | Andamento |
+| 9 | Média | Como analista/gestor, quero visualizar um Dashboard interativo em Power BI, para acompanhar os indicadores operacionais de forma visual. | 3 | Andamento |
+| 10 | Média | Como analista/gestor, quero simular a variação do número de equipes ou aumento de demandas, para apoiar a tomada de decisão estratégica. | 3 | Andamento |
+| 11 | Baixa | Como analista/gestor, quero exportar relatórios e resumos operacionais, para compartilhar os dados de rotas com a equipe de campo.(Relatório executivo exportável (PDF/Excel)) | 3 | Andamento |
 
 
 
@@ -75,7 +75,7 @@ Utilizar o histórico de fiscalizações do IPEM-SP e técnicas de Pesquisa Oper
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | 01                | 30/09/2026 | Concluído  | [MVP](MVP/sp1.md)  |
-| 02                | 28/10/2026 | Andamento| [MVP](MVP/sp2.md)  |
-| 03                | 25/11/2026 | Pendente  | [MVP](MVP/sp3.md)  |
+| 02                | 28/10/2026 | Concluído | [MVP](MVP/sp2.md)  |
+| 03                | 25/11/2026 | Andamento  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 03/12/2026 | Pendente  | [MVP](#)  |
 
