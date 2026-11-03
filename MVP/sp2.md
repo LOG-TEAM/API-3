@@ -364,7 +364,7 @@ Este documento apresenta a avaliação de desempenho da equipe LOGTEAM durante a
 ---
 ## 12. Anexos
 
-[Dashbord Otimização de carga de trabalho](https://app.powerbi.com/view?r=eyJrIjoiMDk3YTBmYjQtYzE0My00MDA0LTk5YzQtYTMyOTc3OGQ2ZmE3IiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9)
+[Dashboard Otimização de carga de trabalho](https://app.powerbi.com/view?r=eyJrIjoiMDk3YTBmYjQtYzE0My00MDA0LTk5YzQtYTMyOTc3OGQ2ZmE3IiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9)
 
 
 
