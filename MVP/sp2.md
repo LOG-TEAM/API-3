@@ -368,8 +368,7 @@ Este documento apresenta a avaliação de desempenho da equipe LOGTEAM durante a
 
 
 
-https://github.com/user-attachments/assets/6aa074b9-5aae-4b45-864d-4ed4b7b819b7
-
+[Demonstração do Dashboard da Segunda sprint](https://www.youtube.com/watch?v=SpSW7UjZXtE)
 
 
 **Projeto:** API de Análise e Otimização da Fiscalização
