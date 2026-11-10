@@ -76,5 +76,24 @@ O propósito deste MVP é entregar a **camada de inteligência visual, simulaç�
 
 ---
 
-## 🚀 6. Conclusão
+## 📌 6. Considerações Finais
 Com a entrega da Sprint 3, a **API de Análise e Otimização da Fiscalização** atinge a sua **versão final completa**, cobrindo o ciclo ponta a ponta desde o tratamento de dados brutos até a inteligência prescritiva e visualização executiva.
+
+---
+
+## 📊 7. Relatório de Avaliação de Desempenho — Sprint 3
+
+---
+
+## 📚 8. Referências Normativas
+
+* **BRASIL.** Lei nº 9.933, de 20 de dezembro de 1999. Dispõe sobre as competências do Conmetro e do Inmetro, institui a Taxa de Serviços Metrológicos e dá outras providências.
+* **INMETRO.** Portaria nº 157, de 31 de março de 2022. Regulamento técnico metrológico aplicável aos instrumentos de pesagem não automáticos.
+* **INMETRO.** Portaria nº 227, de 26 de maio de 2022. Regulamento técnico metrológico aplicável aos sistemas de medição e abastecimento de combustíveis líquidos.
+
+**Observação:** antes da entrega acadêmica ou institucional, recomenda-se conferir as referências normativas, suas alterações e a vigência dos regulamentos aplicáveis diretamente nas publicações oficiais do Inmetro e do Diário Oficial da União.
+
+---
+
+## 9. Anexos
+
