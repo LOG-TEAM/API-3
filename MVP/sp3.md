@@ -53,10 +53,10 @@ O propósito deste MVP é entregar a **camada de inteligência visual, simulaç�
 
 | ID | User Story | Prioridade | Estimativa | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| **US8** | Como analista/gestor, quero comparar os indicadores históricos (reais) com os otimizados, para mensurar o percentual de ganho. | Baixa/Média | 3 pontos | **Entregue** |
-| **US9** | Como analista/gestor, quero visualizar um Dashboard interativo em Power BI, para acompanhar os indicadores operacionais de forma visual. | Média | 5 pontos | **Entregue** |
-| **US10** | Como analista/gestor, quero simular a variação do número de equipes ou aumento de demandas, para apoiar a tomada de decisão estratégica. | Média | 5 pontos | **Entregue** |
-| **US11** | Como analista/gestor, quero exportar relatórios e resumos operacionais, para compartilhar os dados de rotas com a equipe de campo (PDF/Excel). | Baixa/Média | 3 pontos | **Entregue** |
+| **US8** | Como analista/gestor, quero comparar os indicadores históricos (reais) com os otimizados, para mensurar o percentual de ganho. | Baixa | **Andamento** |
+| **US9** | Como analista/gestor, quero visualizar um Dashboard interativo em Power BI, para acompanhar os indicadores operacionais de forma visual. | Média | **Andamento** |
+| **US10** | Como analista/gestor, quero simular a variação do número de equipes ou aumento de demandas, para apoiar a tomada de decisão estratégica. | Média | **Andamento** |
+| **US11** | Como analista/gestor, quero exportar relatórios e resumos operacionais, para compartilhar os dados de rotas com a equipe de campo (PDF/Excel). | Baixa  | **Andamento** |
 
 ---
 
