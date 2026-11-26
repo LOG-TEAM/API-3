@@ -85,7 +85,7 @@ Com a entrega da Sprint 3, a **API de Análise e Otimização da Fiscalização*
 
 Este documento apresenta a conclusão do Projeto Integrador da equipe LOGTEAM, reunindo o desenvolvimento da solução, os resultados alcançados e as principais entregas realizadas ao longo das três Sprints.
 
-🔗 **[Acessar Relatório Final do Projeto LOGTEAM PDF](https://github.com/LOG-TEAM/API-3/blob/main/Docs/Docs%20Sprint%203/ultimo_relatório%20(01.pdf) **
+🔗 **🔗 [Acessar Relatório Final do Projeto LOGTEAM (PDF)](https://github.com/LOG-TEAM/API-3/blob/main/Docs/Docs%20Sprint%203/ultimo_relatório%20(01.pdf) **
 ---
 
 
