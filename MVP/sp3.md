@@ -86,10 +86,18 @@ Com a entrega da Sprint 3, a **API de Análise e Otimização da Fiscalização*
 Este documento apresenta a conclusão do Projeto Integrador da equipe LOGTEAM, reunindo o desenvolvimento da solução, os resultados alcançados e as principais entregas realizadas ao longo das três Sprints.
 
 🔗 [ Acessar Relatório Final do Projeto LOGTEAM (PDF) ](https://github.com/LOG-TEAM/API-3/blob/main/Docs/Docs%20Sprint%203/ultimo_relat%C3%B3rio%20%2801.pdf)
+
 ---
 
+### 🎬 8. Vídeo de Encerramento do Projeto LOGTEAM
 
-## 📚 8. Referências Normativas
+Este vídeo apresenta a trajetória da equipe LOGTEAM ao longo das três Sprints, destacando as contribuições individuais de cada integrante, as atividades desenvolvidas e os resultados alcançados. Também demonstra a versão final da solução desenvolvida e a conclusão do Projeto Integrador.
+
+[Assistir ao Vídeo de Encerramento do Projeto LOGTEAM](https://www.youtube.com/watch?v=ttGLgueQEVc)
+
+---
+
+## 📚 9. Referências Normativas
 
 * **BRASIL.** Lei nº 9.933, de 20 de dezembro de 1999. Dispõe sobre as competências do Conmetro e do Inmetro, institui a Taxa de Serviços Metrológicos e dá outras providências.
 * **INMETRO.** Portaria nº 157, de 31 de março de 2022. Regulamento técnico metrológico aplicável aos instrumentos de pesagem não automáticos.
